@@ -1,0 +1,9 @@
+.main-body
+{
+    max-width: 760px;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+#about-pic {
+    border-radius: 50%;
+}
